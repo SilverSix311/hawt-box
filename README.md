@@ -1,2 +1,2 @@
-# hawt-box
+# HAWT box
 HAWT Box
